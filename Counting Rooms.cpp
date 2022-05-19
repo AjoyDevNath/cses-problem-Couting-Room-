@@ -49,9 +49,9 @@ void dfs(int row,int col)
             dfs(new_x,new_y);
         }
 
-        cout<<"hhoooope"<<"\n";
+        //cout<<"hhoooope"<<"\n";
     }
-    cout<<"#debug"<<"\n";
+    //cout<<"#debug"<<"\n";
 }
 
 void solve()
